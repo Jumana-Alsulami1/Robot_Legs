@@ -9,3 +9,5 @@ This task includes the 3D design of a robot's legs using Tinkercad. The design u
 3- Design the knee joint for the robot legs.
 
 4- Duplicate the robot leg.
+
+Output:
